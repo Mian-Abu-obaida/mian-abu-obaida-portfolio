@@ -1,5 +1,5 @@
 import React from "react";
-import resumeFile from "../images/CV.pdf";
+import resumeFile from "../images/MianAbuObaidaCV.pdf";
 
 const Resume = ({ classicHeader, darkTheme }) => {
   const educationDetails = [
